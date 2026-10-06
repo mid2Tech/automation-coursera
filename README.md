@@ -10,7 +10,7 @@
 ## BẢNG GIÁ KEY
 
 <div align="center">
-  <img src="images/ui-6.png" alt="Bảng giá key" width="600" />
+  <img src="ui-6.png" alt="Bảng giá key" width="600" />
 </div>
 
 ## Giao Diện Tool
@@ -21,31 +21,31 @@
       <td align="center">
         <b>Giao diện chính</b><br/>
         <br/>
-        <img src="images/ui-2.png" width="300" alt="Giao diện chính của Tool" />
+        <img src="ui-2.png" width="300" alt="Giao diện chính của Tool" />
       </td>
       <td align="center">
         <b>Nhập Key</b><br/>
         <br/>
-        <img src="images/ui-1.png" width="300" alt="Nhập key" />
+        <img src="ui-1.png" width="300" alt="Nhập key" />
       </td>
     </tr>
     <tr>
       <td align="center">
         <b>Cài đặt và nhập API</b><br/>
         <br/>
-        <img src="images/ui-3.png" width="300" alt="Setting và nhập API" />
+        <img src="ui-3.png" width="300" alt="Setting và nhập API" />
       </td>
       <td align="center">
         <b>Tính năng PRO</b><br/>
         <br/>
-        <img src="images/ui-4.png" width="300" alt="Chức năng PRO" />
+        <img src="ui-4.png" width="300" alt="Chức năng PRO" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <b>Terminal log thông báo</b><br/>
         <br/>
-        <img src="images/ui-5.png" width="500" alt="Terminal Log" />
+        <img src="ui-5.png" width="500" alt="Terminal Log" />
       </td>
     </tr>
   </table>
